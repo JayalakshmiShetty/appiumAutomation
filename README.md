@@ -1,4 +1,4 @@
-Way to execute the Assignment Maven project locally.
+### Way to execute the Assignment Maven project locally.
 
 1. Download the project  and save it.
 2. Open in Eclipse workspace and In home page  click “File”  click “Import”
@@ -17,7 +17,7 @@ mvn clean test -DsuiteXmlFile="./src/test/java/com/resources/testng.xml"
 
 ****************************************************************************
 
-Way to execute the Assignment in Git Hub Actions:
+### Way to execute the Assignment in Git Hub Actions:
 1. Creating a new action by navigating to the Actions tab on our repository page.
 2. Click on setup this workflow button under the Node.js workflow.
 3. click Start commit then either commit it directory to the master branch or add the change to a new branch. For this walkthrough, I'll be committing straight to master.
