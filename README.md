@@ -24,7 +24,7 @@ mvn clean test -DsuiteXmlFile="./src/test/java/com/resources/testng.xml"
 4. To see our new action run, we can again click on the Actions tab which will navigate us back to our new Actions dashboard.
 
 
-Technologies used:
+###  Technologies used:
 1.	Appium
 2.	Maven
 3.	TestNG
